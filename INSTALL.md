@@ -2,7 +2,7 @@
 
 ## Voraussetzungen
 - Git muss auf Ihrem System installiert sein.
-- Node.js muss auf Ihrem System installiert sein, um die Benutzeroberfläche zu starten.
+- Node.js (mindestens Version 14.x) muss auf Ihrem System installiert sein, um die Benutzeroberfläche zu starten.
 
 ## Installationsschritte
 1. Klonen Sie das Repository: `git clone https://github.com/benutzer/version-control-booster.git`
