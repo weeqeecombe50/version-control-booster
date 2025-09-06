@@ -13,5 +13,6 @@ Vielen Dank, dass Sie zur Version Control Booster beitragen möchten!
 - Achten Sie darauf, den Code lesbar und dokumentiert zu gestalten.
 - Fügen Sie Tests hinzu, wenn Sie neue Funktionen implementieren.
 - Halten Sie sich an den bestehenden Stil des Codes.
+- Stellen Sie sicher, dass alle Abhängigkeiten aktuell sind.
 
 Wir freuen uns auf Ihre Beiträge!
